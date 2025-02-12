@@ -13,13 +13,13 @@ st.components.v1.html(embed_code,height=500)
 
 tab1 , tab2 = st.tabs(["Visão para o cliente " , "Visão para o operador"])
 tab1.write("""
- # Visão do cliente
+  **Visão do cliente**
  - Esclarece muito bem os literais
  - Maior autonomia
            
            """)
 tab2.write("""
- # Visão do operador
+  **Visão do operador**
  - Visão limitada, precisa ir em várias rotas para localizar as informações
  - Em alguns casos precisa deduzir do que se refere os valores
 """)
