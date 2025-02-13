@@ -1,4 +1,4 @@
 import streamlit as st
 
-("Visão futuro")
+st.title("Visão futuro")
 
