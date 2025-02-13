@@ -11,7 +11,7 @@ st.components.v1.html(embed_code,height=400)
 
 ("Jornada atual bankline")
 
-embed_code = """<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="550" height="450" src="https://embed.figma.com/proto/3ANXNPKYyd3dwg8HRijMZ7/Hacka-desktop?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share" allowfullscreen></iframe>"""
+embed_code = """<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="300" height="450" src="https://embed.figma.com/proto/3ANXNPKYyd3dwg8HRijMZ7/Hacka-desktop?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share" allowfullscreen></iframe>"""
 st.components.v1.html(embed_code, height=450)
 
 
