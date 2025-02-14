@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st. title("Hacka Itaú Empresas")
+st. title("Criathon Itaú Empresas")
 st.subheader("Extrato")
 
 ("Jornada atual app")
